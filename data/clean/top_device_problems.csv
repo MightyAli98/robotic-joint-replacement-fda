@@ -1,0 +1,25 @@
+system,device_problem,reports,pct_of_reports
+Stryker Mako,Detachment of Device or Device Component,1380,27.7
+Stryker Mako,Mechanical Problem,703,14.1
+Stryker Mako,Insufficient Device Problem Information,656,13.2
+Stryker Mako,Non Reproducible Results,432,8.7
+Stryker Mako,Break,419,8.4
+Stryker Mako,Material Integrity Problem,376,7.5
+Stryker Mako,Computer Software Problem,313,6.3
+Stryker Mako,"Incorrect, Inadequate or Imprecise Result or Readings",307,6.2
+J&J VELYS,Device Slipped,1437,58.5
+J&J VELYS,Malposition of Device,332,13.5
+J&J VELYS,Device-Device Incompatibility,179,7.3
+J&J VELYS,Premature Separation,121,4.9
+J&J VELYS,Leak/Splash,113,4.6
+J&J VELYS,Positioning Problem,89,3.6
+J&J VELYS,Unintended Movement,89,3.6
+J&J VELYS,Appropriate Device Problem Term/Code Not Available,85,3.5
+Zimmer Biomet ROSA,"Incorrect, Inadequate or Imprecise Result or Readings",24,24.0
+Zimmer Biomet ROSA,Output Problem,20,20.0
+Zimmer Biomet ROSA,Unintended Movement,17,17.0
+Zimmer Biomet ROSA,Adverse Event Without Identified Device or Use Problem,10,10.0
+Zimmer Biomet ROSA,Unintended System Motion,10,10.0
+Zimmer Biomet ROSA,Incorrect Measurement,8,8.0
+Zimmer Biomet ROSA,Sparking,4,4.0
+Zimmer Biomet ROSA,Failure to Advance,3,3.0
